@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='AndroidBasicKP08_08102019'
